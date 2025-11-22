@@ -1,7 +1,8 @@
 
 # Router Configuration
 
-## Versão
+## NOTE
+### As configurações são as mesmas nos dois roteadoes com exceção do ip fornecido para HSPR que é acrescido +1 no último octeto.
 ---
 
 ## DHCP Pools
